@@ -4,11 +4,11 @@
 
 - 공모전 우수 앱 소스(자바 구현)
 
--처음 앱 실행시, 복지정보사이트 layout과 java
+-처음 앱 실행시, 복지정보사이트 layout과 java\n
 --> layout: activity_main, activity_start, colors, styles
 --> java: ActivityStart, MainActivity, SplashActivity
 
--자가 진단 테스트 layout과 java
+-자가 진단 테스트 layout과 java\n
 --> layout: activity_main1, activity_button1,2,3,4 , activity_result1~12
 --> java: Button1,2,3,4, MainActivity1, result1~12
 
