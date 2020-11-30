@@ -10,17 +10,20 @@
 
 --> java: ActivityStart, MainActivity, SplashActivity
 
+
 -자가 진단 테스트 layout과 java
 
 --> layout: activity_main1, activity_button1,2,3,4 , activity_result1~12
 
 --> java: Button1,2,3,4, MainActivity1, result1~12
 
+
 -편의시설 위치 layout과 java
 
 --> layout: mapbutton, map1~4
 
 --> java: Map1~4class, MapPoint,2,3, ShelterApi,2,3, MapButton
+
 
 -정보공유게시판
 
